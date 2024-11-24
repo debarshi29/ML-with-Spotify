@@ -1,0 +1,51 @@
+Playlist,Track Name,Artist(s),Artist Follower Count(s),Album,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time signature
+ML Project,Demons,Imagine Dragons,54771556,Night Visions,0.5,0.71,3,-3.015,1,0.0339,0.19,0.00025,0.269,0.419,89.929,177507,4
+ML Project,Closer,"The Chainsmokers, Halsey","20511114, 21723351",Closer,0.748,0.524,8,-5.599,1,0.0338,0.414,0,0.111,0.661,95.01,244960,4
+ML Project,Hymn for the Weekend,Coldplay,53820907,A Head Full of Dreams,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92E-06,0.325,0.412,90.027,258267,4
+ML Project,Something Just Like This,"The Chainsmokers, Coldplay","20511114, 53820907",Memories...Do Not Open,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44E-05,0.164,0.446,103.019,247160,4
+ML Project,On Top Of The World,Imagine Dragons,54771556,Night Visions,0.63,0.924,0,-5.589,1,0.145,0.0841,3.56E-06,0.084,0.763,100.045,192280,4
+ML Project,Viva La Vida,Coldplay,53820907,Viva La Vida or Death and All His Friends,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23E-06,0.109,0.417,138.015,242373,4
+ML Project,Believer,Imagine Dragons,54771556,Evolve,0.776,0.78,10,-4.374,0,0.128,0.0622,0,0.081,0.666,124.949,204347,4
+ML Project,See You Again (feat. Charlie Puth),"Wiz Khalifa, Charlie Puth","11239975, 23269570",See You Again (feat. Charlie Puth),0.689,0.481,10,-7.503,1,0.0815,0.369,1.03E-06,0.0649,0.283,80.025,229526,4
+ML Project,Thunder,Imagine Dragons,54771556,Evolve,0.604,0.822,0,-4.833,1,0.0438,0.00672,0.134,0.147,0.288,167.997,187147,4
+ML Project,Dusk Till Dawn (feat. Sia) - Radio Edit,"ZAYN, Sia","23236087, 28660529",Icarus Falls,0.259,0.437,11,-6.589,0,0.0386,0.102,1.32E-06,0.106,0.0951,180.042,239000,4
+ML Project,We Don't Talk Anymore (feat. Selena Gomez),"Charlie Puth, Selena Gomez","23269570, 50852197",Nine Track Mind (Special Edition),0.728,0.563,1,-8.053,0,0.134,0.621,0,0.179,0.352,100.017,217707,4
+ML Project,Cheap Thrills (feat. Sean Paul),"Sia, Sean Paul","28660529, 4879947",This Is Acting,0.592,0.8,6,-4.931,0,0.215,0.0561,2.01E-06,0.0775,0.728,89.972,224813,4
+ML Project,Faded,Alan Walker,39533283,Different World,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97E-06,0.11,0.159,179.642,212107,4
+ML Project,Shape of You,Ed Sheeran,116349234,÷ (Deluxe),0.825,0.652,1,-3.183,0,0.0802,0.581,0,0.0931,0.931,95.977,233713,4
+ML Project,Starboy,"The Weeknd, Daft Punk","92188123, 10174802",Starboy,0.679,0.587,7,-7.015,1,0.276,0.141,6.35E-06,0.137,0.486,186.003,230453,4
+ML Project,Blinding Lights,The Weeknd,92188123,After Hours,0.513,0.73,1,-5.94,1,0.0598,0.00143,9.54E-05,0.0897,0.334,171.001,200040,4
+ML Project,Let Me Down Slowly,Alec Benjamin,5238968,Narrated For You,0.652,0.557,1,-5.714,0,0.0318,0.74,0,0.124,0.483,150.073,169354,4
+ML Project,Love Me Again,John Newman,752846,Tribute,0.495,0.894,2,-4.814,0,0.0441,0.00453,0.000596,0.103,0.213,126.03,239894,4
+ML Project,Memories,Maroon 5,42793624,JORDI (Deluxe),0.775,0.327,11,-7.241,1,0.0557,0.841,0,0.0821,0.595,91.05,189486,4
+ML Project,Despacito,"Luis Fonsi, Daddy Yankee","10597085, 35121754",VIDA,0.655,0.797,2,-4.787,1,0.153,0.198,0,0.067,0.839,177.928,229360,4
+ML Project,Somebody That I Used To Know,"Gotye, Kimbra","2195617, 429667",Making Mirrors,0.865,0.521,0,-6.932,1,0.0371,0.548,0.000115,0.0989,0.748,129.059,244885,4
+ML Project,I Don't Care (with Justin Bieber),"Ed Sheeran, Justin Bieber","116349234, 77769411",No.6 Collaborations Project,0.798,0.676,6,-5.041,1,0.0442,0.0902,0,0.0894,0.843,101.956,219947,4
+ML Project,Way down We Go,KALEO,1853604,A/B,0.489,0.505,10,-8.022,0,0.117,0.579,0.000333,0.104,0.337,163.255,213707,4
+ML Project,Night Changes,One Direction,36573789,FOUR (Deluxe),0.672,0.52,8,-7.747,1,0.0353,0.859,0,0.115,0.37,120.001,226600,4
+ML Project,Arcade,Duncan Laurence,598501,Small Town Boy (Track By Track),0.453,0.35,9,-11.639,0,0.0425,0.827,0.00122,0.144,0.279,72.017,185147,3
+ML Project,lovely (with Khalid),"Billie Eilish, Khalid","100358430, 16359581",lovely (with Khalid),0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284,200186,4
+ML Project,The Night We Met,Lord Huron,1727912,Strange Trails,0.448,0.369,9,-9.514,1,0.0452,0.968,0.272,0.638,0.0998,174.097,208212,3
+ML Project,The Box,Roddy Ricch,10880957,Please Excuse Me for Being Antisocial,0.896,0.586,10,-6.687,0,0.0559,0.104,0,0.79,0.642,116.971,196653,4
+ML Project,All The Stars (with SZA),"Kendrick Lamar, SZA","33296812, 23479014",Black Panther The Album Music From And Inspired By,0.695,0.633,8,-4.946,1,0.0599,0.0612,0.000195,0.0926,0.557,96.782,232187,4
+ML Project,Somewhere Only We Know,Keane,3501393,Hopes And Fears,0.448,0.665,9,-4.203,1,0.026,0.06,2.55E-05,0.0828,0.304,172.004,237147,4
+ML Project,Homage,Mild High Club,575309,Skiptracing,0.546,0.465,5,-8.167,1,0.0287,0.153,0.00259,0.321,0.415,73.369,177493,4
+ML Project,Hey Jude - Remastered 2015,The Beatles,28482992,1 (Remastered),0.386,0.607,10,-7.7,1,0.0261,0.0112,1.38E-05,0.088,0.532,147.207,425653,4
+ML Project,End of Beginning,Djo,1559451,DECIDE,0.689,0.454,2,-7.643,1,0.0584,0.0351,0.00259,0.0707,0.912,159.982,159246,4
+ML Project,Eleanor Rigby,The Beatles,28482992,Yellow Submarine Songtrack,0.521,0.301,4,-7.118,0,0.0356,0.836,0,0.398,0.621,137.382,125227,4
+ML Project,Experience,"Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani","3556001, 44544, 13042",In A Time Lapse,0.447,0.449,2,-10.634,1,0.0376,0.934,0.961,0.0697,0.036,92.468,315427,4
+ML Project,Skyfall,Adele,59148201,Skyfall,0.346,0.552,0,-6.864,0,0.0282,0.417,0,0.114,0.0789,75.881,286480,4
+ML Project,Stereo Hearts (feat. Adam Levine),"Gym Class Heroes, Adam Levine","1511109, 1017420",The Papercut Chronicles II,0.646,0.795,9,-3.293,1,0.0976,0.0319,0,0.267,0.796,89.99,210960,4
+ML Project,Set Fire to the Rain,Adele,59148201,21,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.68E-06,0.112,0.446,107.993,242974,4
+ML Project,Another Love,Tom Odell,3986443,Long Way Down (Deluxe),0.445,0.537,4,-8.532,0,0.04,0.695,1.65E-05,0.0944,0.131,122.769,244360,4
+ML Project,House of Memories,Panic! At The Disco,12362999,Death of a Bachelor,0.506,0.817,11,-5.051,0,0.0335,0.00272,0,0.0486,0.506,109.952,208707,4
+ML Project,Wavin' Flag,K'NAAN,257434,Troubadour,0.625,0.699,0,-6.416,1,0.0729,0.13,0,0.238,0.717,75.974,220520,4
+ML Project,Wonderwall - Remastered,Oasis,10706456,(What's The Story) Morning Glory? [Remastered],0.376,0.896,2,-4.065,1,0.0395,0.000452,0,0.194,0.472,174.379,258773,4
+ML Project,The Hills,The Weeknd,92188123,Beauty Behind The Madness,0.585,0.564,0,-7.063,0,0.0515,0.0671,0,0.135,0.137,113.003,242253,4
+ML Project,Mi Gente,"J Balvin, Willy William","37222161, 253194",Vibras,0.548,0.703,11,-4.838,0,0.0772,0.0168,2.38E-05,0.143,0.286,104.666,185040,4
+ML Project,Tous les mêmes,Stromae,3419784,racine carrée,0.701,0.638,5,-9.061,0,0.165,0.223,0.00219,0.279,0.646,109.96,210933,4
+ML Project,Call Out My Name,The Weeknd,92188123,"My Dear Melancholy,",0.461,0.593,1,-4.954,1,0.0356,0.165,0,0.307,0.174,134.165,228373,3
+ML Project,Little Dark Age,MGMT,3205774,Little Dark Age,0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512,299960,4
+ML Project,Copines,Aya Nakamura,4945621,NAKAMURA,0.701,0.787,8,-3.941,0,0.0855,0.27,0,0.105,0.904,180.027,171720,4
+ML Project,Lean On,"Major Lazer, DJ Snake, MØ","6188647, 8861758, 1456641",Peace Is The Mission,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,176561,4
+ML Project,lovely (with Khalid),"Billie Eilish, Khalid","100358430, 16359581",lovely (with Khalid),0.351,0.296,4,-10.109,0,0.0333,0.934,0,0.095,0.12,115.284,200186,4
